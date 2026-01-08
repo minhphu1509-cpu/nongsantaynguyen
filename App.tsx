@@ -1,9 +1,9 @@
 
 import React, { useState } from 'react';
-import Navbar from './ui/Navbar';
-import Footer from './ui/Footer';
-import Chatbot from './ui/Chatbot';
-import Home from './pages/Home';
+import Navbar from '@/ui/Navbar';
+import Footer from '@/ui/Footer';
+import Chatbot from '@/ui/Chatbot';
+import Home from '@/pages/Home';
 import Products from '@/pages/Products';
 import Contact from '@/pages/Contact';
 import Admin from '@/pages/Admin';
